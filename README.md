@@ -2,9 +2,11 @@
 
 # 🧮 Calculadora Simples em Python
 
-Este projeto é uma calculadora simples desenvolvida em **Python**, capaz de realizar as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+Este projeto é uma calculadora simples desenvolvida em **Python**, capaz de realizar as quatro operações matemáticas básicas: adição, 
+subtração, multiplicação e divisão.
 
-O projeto foi desenvolvido com o objetivo de praticar conceitos básicos da linguagem Python, como entrada de dados, estruturas condicionais, tratamento de erros e operações matemáticas.
+O projeto foi desenvolvido com o objetivo de praticar conceitos básicos da linguagem Python, como entrada de dados, estruturas 
+condicionais, tratamento de erros e operações matemáticas.
 
 ## 🚀 Funcionalidades
 
