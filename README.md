@@ -27,7 +27,7 @@ A calculadora permite realizar:
 
 ### 1. Clone o repositório
 
-```bash
+bash
 git clone https://github.com/Kaaraujo27/CalculadoraSimples.git
 
 ⚠️ Tratamento de erros
