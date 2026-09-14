@@ -37,6 +37,7 @@ O programa possui algumas validações para evitar erros durante a execução:
 Não permite divisão por zero.
 Informa quando uma operação inválida é digitada.
 Informa quando são inseridos valores que não são números.
+
 📚 Objetivo
 
 Este projeto faz parte dos meus estudos em Python e programação, servindo como prática para desenvolver conhecimentos básicos de lógica de programação e estruturas da linguagem.
